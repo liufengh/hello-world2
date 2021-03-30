@@ -2,3 +2,5 @@
 learn about how to create a new repository
 
 learn about how to Make and commit changes
+
+learn about how to add file
